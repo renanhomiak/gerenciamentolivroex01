@@ -11,7 +11,7 @@ public class BookModel {
     private Long id;
     private String titulo;
     private String autor;
-    private  Integer anoPublicacao;
+    private Integer anoPublicacao;
 
     public BookModel(){
     }
